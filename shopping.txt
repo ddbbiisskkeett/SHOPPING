@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>EXOTICS:TOP EXOTIC MODELS IN</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #501abc;
+  color: https://unsplash.com/s/photos/midnight-blue;
+}
+
+
+.header h1 {
+  font-size: 40px;
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #991abc;
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: wavy;
+}
+
+
+.navbar a.right {
+  float: right;
+}
+
+
+.navbar a:hover {
+  background-color: #991abc;
+  color: black;
+}
+
+
+.row {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+
+.side {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  background pic: #f0b3af;
+  padding: 20px;
+}
+
+
+.main {   
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: #eda49f;
+  padding: 20px;
+}
+
+
+.xnamefname {
+  background-color: #593836;
+  width: 100%;
+  padding: 20px;
+}
+
+
+.footer {
+  padding: 20px;
+  text-align: left;
+  background: #474040;
+}
+
+
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: center;
+    width: 100%;
+    pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F235985%2Fpexels-photo-235985.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbackground%2520texture%2F&tbnid=wFOhbMaWvGsawM&vet=12ahUKEwjKhark9_74AhUJ-xoKHUwTClYQMygGegUIARDXAQ..i&docid=rRaRKYcQa8LR7M&w=500&h=334&q=tectured%20background&hl=en&ved=2ahUKEwjKhark9_74AhUJ-xoKHUwTClYQMygGegUIARDXAQ;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>EXOTICS</h1>
+  <p>A website created by Edward.</p>
+</div>
+
+<div class="navbar">
+  <a href="#">IG</a>
+  <a href="#">Twitter</a>
+  <a href="#">Fb</a>
+  <a href="#" class="right">LOG IN</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <h2>TOP EXOTIC MODELS IN:</h2>
+    <h5>PERFOMANCE</h5>
+    <div class="xnamefname" style="height:200px;">Find your exotic car today</div>
+    <p>
+		<ul><li>2.1 Ferrari.</li><li>2.2 Lamborghini.</li><li>2.3 Maserati.</li><li>2.4 Alfa Romeo.</li><li>2.5 Porsche.</li><li>2.6 Pagani.</li><li>2.7 koenigsegg.</li><li>2.8 McLaren.</li></ul>
+    </p>
+    <h3>TOP EXOTIC MODELS IN:</h3>
+    <p>LUXURY</p>
+    <div class="xnamefname" style="height:60px;">Bentley</div><br>
+    <div class="xnamefname" style="height:60px;">Rolls-Royce</div><br>
+    <div class="xnamefname" style="height:60px;">Range Rover</div>
+  </div>
+  <div class="main">
+    <h2>TOP EXOTIC MODELS IN:</h2>
+    <h5>Off-road cars</h5>
+    <div class="xnamefname" style="height:200px;">Tell us what you like...</div>
+    <p>Mercedes Benz G-Class</p>
+    <p>Jeep Wrangler</p>
+    <p>Toyota Fortuner</p>
+    <p>Ram TRX</p>
+    <br>
+    <h2>TOP EXOTIC MODELS IN:</h2>
+    <h5>Electric cars</h5>
+    <div class="xnamefname" style="height:200px;">tell us what you like...</div>
+    <p>EQS Sedan</p>
+    <p>BMW iX</p>
+    <p>Honda e</p>
+    <p>Hyundai Ioniq 5</p>
+    <p>Tesla Model 3</p>
+    <p>Porsche Taycan</p>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Help</h2>           <h2>Send feedback</h2>           <h2>Privacy</h2>           <h2>Terms</h2>
+</div>
+
+</body>
+</html>
+
+
